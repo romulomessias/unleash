@@ -3596,10 +3596,10 @@ log4js@^5.1.0:
     rfdc "^1.1.4"
     streamroller "^2.1.0"
 
-lolex@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/lolex/-/lolex-5.0.0.tgz#30096cae7d1e598ff57f5f5d429a41e6276e1eef"
-  integrity sha512-79Le9AHAH4tg76f/Zti7S9TzUZmuKFYOWLAXUj+K5g8ZIK7d0xw2i6aB9FNIkJbCGTQ9CKxm3IQjqu7YR6+oMA==
+lolex@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/lolex/-/lolex-5.1.1.tgz#9587144854511d27940ee5e113dcb7de9b0fd666"
+  integrity sha512-dEwHz1CJ8DsdgfpiimgQQEhEJYOEiJ69a0s4aJDNHajaTqOJuF34vBAWVa/sS0V8aQvt72p+KgQ3pRmEVJM+iA==
 
 loud-rejection@^1.0.0:
   version "1.6.0"
